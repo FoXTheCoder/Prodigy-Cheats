@@ -22,8 +22,9 @@ Happy hacking and exploring! 🌟✨
 - FoXTheCoder
 
 # Features
-- Change level
-- Reset account
+- Change Level
+- Reset Account
+- Walk Speed
 
 # How to use
 
