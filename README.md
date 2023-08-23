@@ -25,4 +25,5 @@ Happy hacking and exploring! 🌟✨
 
 - Simply open the file that sounds more interesting, click the "Raw" button, then copy the code and paste it into the chrome console when you're on prodigy.
 
+
 Note: This disclaimer emphasizes the importance of ethical use and responsible behavior.
