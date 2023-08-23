@@ -24,7 +24,7 @@ Happy hacking and exploring! 🌟✨
 # Features
 - Change Level
 - Reset Account
-- Walk Speed
+- Change Walk Speed
 
 # How to use
 
