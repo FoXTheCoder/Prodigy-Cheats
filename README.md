@@ -19,7 +19,7 @@ Let's embark on a journey to unlock new dimensions in Prodigy and make the game 
 
 Happy hacking and exploring! 🌟✨
 
-- FoXTheHacker
+- FoXTheCoder
 
 # Features
 -
