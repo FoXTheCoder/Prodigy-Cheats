@@ -21,4 +21,8 @@ Happy hacking and exploring! 🌟✨
 
 - FoXTheHacker
 
-Note: This disclaimer emphasizes the importance of ethical use and responsible behavior. Ensure that your usage and modifications align with the terms of service of the game and the legal and ethical standards of the gaming community.
+# How to use
+
+- Simply open the file that sounds more interesting, click the "Raw" button, then copy the code and paste it into the chrome console when you're on prodigy.
+
+Note: This disclaimer emphasizes the importance of ethical use and responsible behavior.
