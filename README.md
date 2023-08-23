@@ -23,6 +23,7 @@ Happy hacking and exploring! 🌟✨
 
 # Features
 - Change level
+- Reset account
 
 # How to use
 
