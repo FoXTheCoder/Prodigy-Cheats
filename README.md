@@ -25,6 +25,7 @@ Happy hacking and exploring! 🌟✨
 - Change Level
 - Reset Account
 - Change Walk Speed
+- Infinite-Gold
 
 # How to use
 
