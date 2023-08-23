@@ -27,7 +27,21 @@ Happy hacking and exploring! 🌟✨
 
 # How to use
 
-- Simply open the file that sounds more interesting, click the "Raw" button, then copy the code and paste it into the Chrome console when you're on Prodigy.
+- Navigate to the file that aligns with your interests within the repository.
+
+- Select the "Raw" button, typically located at the top of the file's content. This will display the raw code without any formatting.
+
+- Copy the entire code provided in the raw view.
+
+- Open the Chrome browser and access the Prodigy game environment.
+
+- Launch the Chrome Developer Console by pressing Ctrl + Shift + I (or Cmd + Option + I on Mac) or by right-clicking on the page and selecting "Inspect."
+
+- Navigate to the "Console" tab within the Developer Console.
+
+- Paste the previously copied code into the console.
+
+- Execute the code by pressing the "Enter" key
 
 # Disclaimer
 This disclaimer emphasizes the importance of ethical use and responsible behavior.
