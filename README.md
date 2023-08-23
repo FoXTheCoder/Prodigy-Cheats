@@ -6,7 +6,7 @@ This repository is dedicated to exploring and enhancing the Prodigy game experie
 Disclaimer - Responsible Use of Cheats
 Disclaimer: The cheats provided in this repository are intended for educational and exploratory purposes only. The use of cheats in Prodigy may violate the game's terms of service and compromise the integrity of fair gameplay. By utilizing these cheats, you acknowledge and agree to the following:
 
-Your Responsibility: You are solely responsible for your decision to use these cheats. Any consequences that arise from using these cheats, including but not limited to account suspension or game instability, are your own responsibility.
+Your Responsibility: You are solely responsible for your decision to use these cheats. Any consequences that arise from using these cheats, including but not limited to account suspension or game instability, are your responsibility.
 
 Game Fairness: Cheating undermines the spirit of fair gameplay and can negatively impact the experiences of others. We encourage you to consider the impact on the Prodigy community and use these cheats thoughtfully.
 
@@ -26,7 +26,8 @@ Happy hacking and exploring! 🌟✨
 
 # How to use
 
-- Simply open the file that sounds more interesting, click the "Raw" button, then copy the code and paste it into the chrome console when you're on prodigy.
+- Simply open the file that sounds more interesting, click the "Raw" button, then copy the code and paste it into the Chrome console when you're on Prodigy.
 
-
-Note: This disclaimer emphasizes the importance of ethical use and responsible behavior.
+# Disclaimer
+This disclaimer emphasizes the importance of ethical use and responsible behavior.
+With that being said have fun!!!
