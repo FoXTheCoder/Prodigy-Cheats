@@ -26,6 +26,7 @@ Happy hacking and exploring! 🌟✨
 - Reset Account
 - Change Walk Speed
 - Infinite-Gold
+- Morph Forever
 
 # How to use
 
