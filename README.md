@@ -27,6 +27,7 @@ Happy hacking and exploring! 🌟✨
 - Change Walk Speed
 - Infinite-Gold
 - Morph Forever
+- Get-Every-Item
 
 # How to use
 
